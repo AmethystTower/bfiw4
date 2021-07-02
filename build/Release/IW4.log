@@ -1,0 +1,7 @@
+﻿  main.cpp
+  Combat.cpp
+C:\Users\Alex\Documents\Visual Studio\BattlesFromIW4\src\IW4\Utils\Combat.hpp(3,10): fatal error C1083: Cannot open include file: 'main.hpp': No such file or directory
+  Stats.cpp
+C:\Users\Alex\Documents\Visual Studio\BattlesFromIW4\src\IW4\Utils\Combat.hpp(3,10): fatal error C1083: Cannot open include file: 'main.hpp': No such file or directory
+  Waves.cpp
+C:\Users\Alex\Documents\Visual Studio\BattlesFromIW4\src\IW4\Utils\Combat.hpp(3,10): fatal error C1083: Cannot open include file: 'main.hpp': No such file or directory

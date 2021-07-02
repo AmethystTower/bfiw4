@@ -1,0 +1,24 @@
+﻿LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/FORCE' specification
+Combat.obj : warning LNK4006: "bool disableStatsChecking" (?disableStatsChecking@@3_NA) already defined in main.obj; second definition ignored
+Combat.obj : warning LNK4006: "int num_enemies" (?num_enemies@@3HA) already defined in main.obj; second definition ignored
+Combat.obj : warning LNK4006: "char character" (?character@@3DA) already defined in main.obj; second definition ignored
+Combat.obj : warning LNK4006: "bool juggernautAvailable" (?juggernautAvailable@@3_NA) already defined in main.obj; second definition ignored
+Combat.obj : warning LNK4006: "struct enemy * enemies" (?enemies@@3PAUenemy@@A) already defined in main.obj; second definition ignored
+Combat.obj : warning LNK4006: "struct soldier temp" (?temp@@3Usoldier@@A) already defined in main.obj; second definition ignored
+Combat.obj : warning LNK4006: "struct soldier * Squad" (?Squad@@3PAUsoldier@@A) already defined in main.obj; second definition ignored
+Stats.obj : warning LNK4006: "char character" (?character@@3DA) already defined in main.obj; second definition ignored
+Stats.obj : warning LNK4006: "bool juggernautAvailable" (?juggernautAvailable@@3_NA) already defined in main.obj; second definition ignored
+Stats.obj : warning LNK4006: "bool disableStatsChecking" (?disableStatsChecking@@3_NA) already defined in main.obj; second definition ignored
+Stats.obj : warning LNK4006: "int num_enemies" (?num_enemies@@3HA) already defined in main.obj; second definition ignored
+Stats.obj : warning LNK4006: "struct soldier temp" (?temp@@3Usoldier@@A) already defined in main.obj; second definition ignored
+Stats.obj : warning LNK4006: "struct soldier * Squad" (?Squad@@3PAUsoldier@@A) already defined in main.obj; second definition ignored
+Stats.obj : warning LNK4006: "struct enemy * enemies" (?enemies@@3PAUenemy@@A) already defined in main.obj; second definition ignored
+Waves.obj : warning LNK4006: "char character" (?character@@3DA) already defined in main.obj; second definition ignored
+Waves.obj : warning LNK4006: "bool juggernautAvailable" (?juggernautAvailable@@3_NA) already defined in main.obj; second definition ignored
+Waves.obj : warning LNK4006: "bool disableStatsChecking" (?disableStatsChecking@@3_NA) already defined in main.obj; second definition ignored
+Waves.obj : warning LNK4006: "int num_enemies" (?num_enemies@@3HA) already defined in main.obj; second definition ignored
+Waves.obj : warning LNK4006: "struct soldier temp" (?temp@@3Usoldier@@A) already defined in main.obj; second definition ignored
+Waves.obj : warning LNK4006: "struct soldier * Squad" (?Squad@@3PAUsoldier@@A) already defined in main.obj; second definition ignored
+Waves.obj : warning LNK4006: "struct enemy * enemies" (?enemies@@3PAUenemy@@A) already defined in main.obj; second definition ignored
+C:\Users\Alex\Documents\Visual Studio\BattlesFromIW4\Debug\kunz.exe : warning LNK4088: image being generated due to /FORCE option; image may not run
+  IW4.vcxproj -> C:\Users\Alex\Documents\Visual Studio\BattlesFromIW4\Debug\kunz.exe
