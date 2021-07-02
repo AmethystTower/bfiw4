@@ -1,4 +1,5 @@
-﻿LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/FORCE' specification
+﻿  main.cpp
+LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/FORCE' specification
 Combat.obj : warning LNK4006: "bool disableStatsChecking" (?disableStatsChecking@@3_NA) already defined in main.obj; second definition ignored
 Combat.obj : warning LNK4006: "int num_enemies" (?num_enemies@@3HA) already defined in main.obj; second definition ignored
 Combat.obj : warning LNK4006: "char character" (?character@@3DA) already defined in main.obj; second definition ignored

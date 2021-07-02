@@ -1,6 +1,6 @@
 #include "main.hpp"
 
-//By Alex Kunz
+//By Amethyst Tower
 
 int main()
 {
